@@ -1,4 +1,4 @@
-# 项目：Vacation-Passer
+# 项目：Vacation-Passer(此版本已放弃，这里是新版本https://github.com/hissincn/Temp-Assistant)
 作者：hissin'
 
 此项目最初上线于2020年寒假，2020年寒假和2021年暑假由@纾浚维护,2021年寒假由@纾浚 @Sweitea @Czz @hissin维护,升学原因2022年暑假由@hissin' @Czz维护。
